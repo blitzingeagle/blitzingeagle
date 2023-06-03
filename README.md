@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Morris Chen - @blitzingeagle</h1>
+<h3 align="center">Toronto, Canada</h3>
+
 
 <!--
 **blitzingeagle/blitzingeagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
