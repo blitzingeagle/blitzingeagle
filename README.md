@@ -2,7 +2,8 @@
 <h3 align="center">Toronto, Canada</h3>
 
 <p align="justify">
-  Hi 👋, I'm Morris, <b>AI Product Manager</b> and <b>Machine Learning Engineer</b> who is passionate about delivering impactful solutions through technology. I love learning, experimenting with, and creating new things.
+  Hi 👋, I'm Morris, <b>AI Product Manager</b> and <b>Machine Learning Engineer</b> currently at <a href="https://www.linkedin.com/showcase/telus-ai-accelerator/">TELUS AI Accelerator</a> who is passionate about delivering impactful solutions through technology.
+  I love learning, experimenting with, and creating new things.
   I'm particularly interested in the field of <b>Machine Learning</b>, but more importantly overseeing the entire product lifecycle to ensure ideas become reality.
 </p><p align="justify">
 
@@ -10,9 +11,9 @@
 <p align="left">
   🚀 Creativity and innovation<br>
   🧐 Continuous learning and curiosity<br>
-  💯 Integrity and trust<br>
   🤝 Collaboration and teamwork<br>
   🎯 Inspirational leadership<br>
+  💯 Reliability<br>
 </p>
 
 <h2 align="left">Papers and Patents</h1>
